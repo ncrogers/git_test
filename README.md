@@ -1,2 +1,3 @@
 # git_test
-changes on main branch
+
+Here is a change made on the new_features branch - resolved.
